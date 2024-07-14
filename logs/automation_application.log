@@ -1,0 +1,32 @@
+2024-06-29 12:34:07.499 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-06-29 12:34:09.512 [main] INFO  reusables.testingBase - Opening Browser !!!
+2024-06-29 12:34:11.575 [main] INFO  reusables.testingBase - Test Setup Done !!!
+2024-06-29 12:34:11.634 [main] INFO  pages.FacebookHomePage - Inserting username
+2024-06-29 12:34:11.827 [main] INFO  pages.FacebookHomePage - Inserting password
+2024-06-29 12:34:12.045 [main] INFO  pages.FacebookHomePage - Clicking on sign in button
+2024-06-29 12:34:16.125 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-06-29 12:34:16.384 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-06-29 13:14:19.807 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-06-29 13:14:23.659 [main] INFO  reusables.testingBase - Opening Browser !!!
+2024-06-29 13:14:25.786 [main] INFO  reusables.testingBase - Test Setup Done !!!
+2024-06-29 13:14:25.836 [main] INFO  pages.FacebookHomePage - Inserting username
+2024-06-29 13:14:25.991 [main] INFO  pages.FacebookHomePage - Inserting password
+2024-06-29 13:14:26.141 [main] INFO  pages.FacebookHomePage - Clicking on sign in button
+2024-06-29 13:14:30.217 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-06-29 13:14:30.556 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-06-29 18:10:56.079 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-06-29 18:11:00.188 [main] INFO  reusables.testingBase - Opening Browser !!!
+2024-06-29 18:11:01.763 [main] INFO  reusables.testingBase - Test Setup Done !!!
+2024-06-29 18:11:01.817 [main] INFO  pages.FacebookHomePage - Inserting username
+2024-06-29 18:11:01.991 [main] INFO  pages.FacebookHomePage - Inserting password
+2024-06-29 18:11:02.156 [main] INFO  pages.FacebookHomePage - Clicking on sign in button
+2024-06-29 18:11:06.236 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-06-29 18:11:06.598 [main] INFO  reusables.testingBase - Test Completed !!!
+2024-07-04 21:38:10.554 [main] INFO  reusables.testingBase - Setting up Browser !!!
+2024-07-04 21:38:16.092 [main] INFO  reusables.testingBase - Opening Browser !!!
+2024-07-04 21:38:18.179 [main] INFO  reusables.testingBase - Test Setup Done !!!
+2024-07-04 21:38:18.231 [main] INFO  pages.FacebookHomePage - Inserting username
+2024-07-04 21:38:18.393 [main] INFO  pages.FacebookHomePage - Inserting password
+2024-07-04 21:38:18.542 [main] INFO  pages.FacebookHomePage - Clicking on sign in button
+2024-07-04 21:38:22.619 [main] INFO  reusables.testingBase - Closing Browser !!!
+2024-07-04 21:38:22.980 [main] INFO  reusables.testingBase - Test Completed !!!
